@@ -12,6 +12,12 @@ This project implements the Symmetric Non-negative Matrix Factorization (SymNMF)
 
 4. **analysis.py** - This Python script performs an analysis that compares the SymNMF clustering results to those of the K-Means clustering algorithm. It computes silhouette scores to assess the quality of clustering.
 
+5. **setup.py** -  This file aids in distributing the Python-C API module.
+
+6. **symnmf.h** - A header for the main C program.
+
+7. **Makefile** - The Makefile smplifies the compilation of C code with predefined rules.  
+
 Overall it's my first meaningful project, and although not alot of coding done in it, this project demonstrates proficiency in C and Python programming, including the creation of a Python-C API for efficient algorithm execution. It showcases expertise in matrix operations, numerical computation, and data manipulation using libraries like NumPy and pandas. Additionally, the project highlights knowledge and skills in machine learning evaluation, specifically in comparing clustering algorithms using silhouette scores. Overall, this project bridges programming languages, implements complex mathematical algorithms, and conducts rigorous data analysis, making it a valuable contribution to clustering and data analytics.
 
 
