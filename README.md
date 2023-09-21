@@ -34,7 +34,7 @@ result = symnmf.symnmf(data, k, iterations)
 # Analyze clustering results
 # (You can use functions from the analysis.py script)
 
-3. Running the analysis -
+Running the analysis -
    To compare K-Means and SymNMF, run the analysis script :
    
 python analysis.py <k_clusters> <data_file>
