@@ -1,6 +1,6 @@
 # SymNMF Clustering Algorithm
 
-This project implements the Symmetric Non-negative Matrix Factorization (SymNMF) clustering algorithm in both C and Python, along with a Python-C API for improved calculation efficiency. Additionally, it includes an analysis file to compare the SymNMF algorithm to the K-Means clustering algorithm.
+This project is an implementation of the Symmetric Non-negative Matrix Factorization (SymNMF) clustering algorithm in both C and Python, along with a Python-C API for improved calculation efficiency. Additionally, it includes an analysis file to compare the SymNMF algorithm to the K-Means clustering algorithm.
 
 ## Files Overview
 
